@@ -1,7 +1,6 @@
 #  algoritmo desarrollado con el fin de contar la cantidad de palabras que 
 # hallan en un archivo de texto
 
-
 import csv
 import string
 
