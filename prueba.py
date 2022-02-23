@@ -1,7 +1,11 @@
-con = {1, 2, 4, 5, 2, 4}
-con2 = set("holaMundo")
+from statistics import variance
 
-print(con)
-print(con2)
-con.clear()
-print(con)
+
+class animal:
+    pass
+class vaca(animal):
+    pass
+class  becerro(vaca):
+    pass
+print (becerro.__bases__)
+print (animal.__subclasses__())
